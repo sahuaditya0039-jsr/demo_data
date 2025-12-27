@@ -1,0 +1,8 @@
+customer_id,customer_name,age,city,region
+C001,Amit,32,Delhi,North
+C002,Neha,28,Mumbai,South
+C003,Raj,35,Kolkata,East
+C004,Simran,40,Pune,West
+C005,Arjun,30,Chennai,South
+C006,Meera,27,Bangalore,East
+C007,Vikram,45,Hyderabad,West
